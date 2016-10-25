@@ -1,0 +1,15 @@
+C:\Source\Owin\Owin.SelfHost1\Owin.SelfHost1\bin\Debug\Owin.SelfHost1.exe.config
+C:\Source\Owin\Owin.SelfHost1\Owin.SelfHost1\bin\Debug\Owin.SelfHost1.exe
+C:\Source\Owin\Owin.SelfHost1\Owin.SelfHost1\bin\Debug\Owin.SelfHost1.pdb
+C:\Source\Owin\Owin.SelfHost1\Owin.SelfHost1\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Source\Owin\Owin.SelfHost1\Owin.SelfHost1\bin\Debug\Microsoft.Owin.dll
+C:\Source\Owin\Owin.SelfHost1\Owin.SelfHost1\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Source\Owin\Owin.SelfHost1\Owin.SelfHost1\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Source\Owin\Owin.SelfHost1\Owin.SelfHost1\bin\Debug\Owin.dll
+C:\Source\Owin\Owin.SelfHost1\Owin.SelfHost1\bin\Debug\Microsoft.Owin.xml
+C:\Source\Owin\Owin.SelfHost1\Owin.SelfHost1\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Source\Owin\Owin.SelfHost1\Owin.SelfHost1\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Source\Owin\Owin.SelfHost1\Owin.SelfHost1\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Source\Owin\Owin.SelfHost1\Owin.SelfHost1\obj\Debug\Owin.SelfHost1.csprojResolveAssemblyReference.cache
+C:\Source\Owin\Owin.SelfHost1\Owin.SelfHost1\obj\Debug\Owin.SelfHost1.exe
+C:\Source\Owin\Owin.SelfHost1\Owin.SelfHost1\obj\Debug\Owin.SelfHost1.pdb
